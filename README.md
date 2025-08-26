@@ -28,7 +28,7 @@ Terminal Linux (WSL 2 ou similar).
 ## Passos
 
 # Clone o repositório:
-git clone https://github.com/SEU_USUARIO/docker-api-demo.git
+git clone https://github.com/LothanLoth/docker-linux.git
 
 cd docker-api-demo
 
